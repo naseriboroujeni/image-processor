@@ -3,6 +3,7 @@
 
 #include <string>
 #include <vector>
+
 #include "Pixel.hpp"
 
 using namespace std;
